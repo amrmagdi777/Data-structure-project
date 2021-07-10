@@ -47,6 +47,7 @@ struct Node *head,*tail;
 
 int main()
 {
+	int m;
     int k;
     int n;
     int x;
